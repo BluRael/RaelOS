@@ -1,0 +1,131 @@
+﻿Spec for ROSCC (RaelOS Character Control) Codes
+------------------------------------------------------
+
+00 - NUL - Null Character
+01 - AUP - Arrow UP
+02 - ADN - Arrow DowN
+03 - ALT - Arrow LefT
+04 - ART - Arrow RighT
+05 - RET - RETurn
+06 - BKS - BacK Space
+07 - HOM - HOMe
+08 - END - END
+09 - INS - INSert
+0A - DEL - DELete
+0B - TAB - TAB
+0C - FN1 - FunctioN 1
+0D - FN2 - FunctioN 2
+0E - FN3 - FunctioN 3
+0F - FN4 - FunctioN 4
+10 - FN5 - FunctioN 5
+11 - FN6 - FunctioN 6
+12 - FN7 - FunctioN 7
+13 - FN8 - FunctioN 8
+14 - FN9 - FunctioN 9
+15 - FN10 - FunctioN 10
+16 - FN11 - FunctioN 11
+17 - FN12 - FunctioN 12
+18 - 
+19 - 
+1A - 
+1B - 
+1C - 
+1D - 
+1E - 
+1F - 
+20 - SPC - SPaCe
+21 -  !  - Exclamation Mark
+22 -  "  - 
+23 -  #  -
+24 -  $  -
+25 -  %  -
+26 -  &  -
+27 -  '  -
+28 -  (  -
+29 -  )  -
+2A -  *  -
+2B -  +  -
+2C -  ,  -
+2D -  -  -
+2E -  .  -
+2F -  /  -
+30 -  0  -
+31 -  1  -
+32 -  2  -
+33 -  3  -
+34 -  4  -
+35 -  5  -
+36 -  6  -
+37 -  7  -
+38 -  8  -
+39 -  9  -
+3A -  :  -
+3B -  ;  -
+3C -  <  -
+3D -  =  -
+3E -  >  -
+3F -  ?  -
+40 -  @  -
+41 -  A  -
+42 -  B  -
+43 -  C  -
+44 -  D  -
+45 -  E  -
+46 -  F  -
+47 -  G  -
+48 -  H  -
+49 -  I  -
+4A -  J  -
+4B -  K  -
+4C -  L  -
+4D -  M  -
+4E -  N  -
+4F -  O  -
+50 -  P  -
+51 -  Q  -
+52 -  R  -
+53 -  S  -
+54 -  T  -
+55 -  U  -
+56 -  V  -
+57 -  W  -
+58 -  X  -
+59 -  Y  -
+5A -  Z  -
+5B -  [  -
+5C -  \  -
+5D -  ]  -
+5E -  ^  -
+5F -  _  -
+60 -  `  -
+61 -  a  -
+62 -  b  -
+63 -  c  -
+64 -  d  -
+65 -  e  -
+66 -  f  -
+67 -  g  -
+68 -  h  -
+69 -  i  -
+6A -  j  -
+6B -  k  -
+6C -  l  -
+6D -  m  -
+6E -  n  -
+6F -  o  -
+30 -  p  -
+31 -  q  -
+32 -  r  -
+33 -  s  -
+34 -  t  -
+35 -  u  -
+36 -  v  -
+37 -  w  -
+38 -  x  -
+39 -  y  -
+3A -  z  -
+3B -  {  -
+3C -  |  -
+3D -  }  -
+3E -  ~  -
+3F -
