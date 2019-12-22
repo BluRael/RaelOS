@@ -8,7 +8,7 @@ namespace RAELOS
     {
         /*FIELDS TO PLOW
          * char[] datamap - Holds the screen memory
-         * char[] drawbuffer - Stores data that is queued up to be executed by ScreenUpdateThread
+         * queue<char> drawbuffer - Stores data that is queued up to be executed by ScreenUpdateThread (This includes ROSCC Codes)
          * int cpx - Cursor X Position
          * int cpy - Cursor Y Position
          */
@@ -18,6 +18,8 @@ namespace RAELOS
         /*SUBS TO BOT:
          * bool Init() - Initialise the display canvas with the default resolution
          * DrawCharacter(char) - Draws a character out on the screen
+         * DeleteCharacter(int, int) - Removes the character from the given character position
+         * GetCharacter(int, int) - Returns the character at the given character location.
          * SetCursorPos(int, int) - Sets the next location to draw a character
          * SetCursorType(int) - Zero: No Cursor | One: Flat Cursor | Two: Block Cursor
          * SetCursorBlink(bool) - Controls if the cursor is blinking or not
