@@ -14,10 +14,14 @@ namespace RAELOS
 
         protected override void Run()
         {
-            Console.Write("Input: ");
-            var input = Console.ReadLine();
-            Console.Write("Text typed: ");
-            Console.WriteLine(input);
+            //TEST SECTION
+            //Tests are held in the "Tests.*" class.
+            //Example: Tests.KeyboardTypeOut();
+            //Change the line below to enable a testing mode
+            Tests.NoDebug();
+
+            //Boot Sequence Start
+
         }
     }
 }
